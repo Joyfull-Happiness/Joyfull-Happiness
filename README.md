@@ -1,7 +1,7 @@
-🚀 About Me
-Hi there! I'm [Your Name], a passionate front-end developer specializing in HTML, CSS, and JavaScript. I love turning creative ideas into interactive and responsive web experiences. Whether it's crafting sleek designs with CSS, building dynamic functionality with JavaScript, or structuring clean, semantic HTML, I'm always eager to push the limits of what’s possible on the web.
+<h1>🚀 About Me:</h1>
+Hey I'm Lajoie, a passionate front-end developer specializing in HTML, CSS, and JavaScript. I love turning creative ideas into interactive and responsive web experiences. Whether it's crafting sleek designs with CSS, building dynamic functionality with JavaScript, or structuring clean, semantic HTML, I'm always eager to push the limits of what’s possible on the web.
 
-💡 What I Do
+💡 What I Do:
 ✨ Front-End Development – Bringing designs to life with HTML, CSS, and JavaScript
 
 🎨 Responsive Design – Ensuring seamless user experiences across all devices
