@@ -21,11 +21,11 @@ Hey I'm Lajoie, a passionate front-end developer specializing in HTML, CSS, and 
 [Project Name 3](GitHub Repo Link) – Brief description of what it does.
 
 <h2>🌍 Connect With Me</h2>
-🔗 [Portfolio Website](Your Website Link)
+🔗 [Portfolio Website]
 
-💼 [LinkedIn](Your LinkedIn Profile)
+💼 <a href="https://www.linkedin.com/in/lajoie-bradley/" target="_blank">LinkedIn</a>
 
-🐦 [Twitter/X](Your Twitter Profile)
+🐦 [Twitter/X]
 
 <h3>🚀 Let’s build something amazing!</h3>
 Currently I'm open to collaborating on projects, learning from others, and sharing knowledge. Feel free to check out my repositories and connect with me!
