@@ -14,7 +14,7 @@ Hey I'm Lajoie, a passionate front-end developer specializing in HTML, CSS, and 
 <h3>Languges:</h3>HTML, CSS, JavaScript, python, react
 
 <h2>🔥 Key Projects</h2>
-[Project Name 1](GitHub Repo Link) – Brief description of what it does.
+[Wellness Course] – A course designed to teach people how to prioritze their wellness.
 
 [Project Name 2](GitHub Repo Link) – Brief description of what it does.
 
