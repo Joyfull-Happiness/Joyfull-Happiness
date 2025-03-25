@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=790b7611ue5qgcp89a1z8jd12pserovhisl5sne3w7a8x1dg&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="600" height="300"/>
+</div>
+
 <h2>🚀 About Me:</h2>
 Hey I'm Lajoie, a passionate front-end developer specializing in HTML, CSS, and JavaScript. I love turning creative ideas into interactive and responsive web experiences. Whether it's crafting sleek designs with CSS, building dynamic functionality with JavaScript, or structuring clean, semantic HTML, I'm always eager to push the limits of what’s possible on the web.
 
