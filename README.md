@@ -3,7 +3,7 @@
 </div>
 
 <h2>🚀 About Me:</h2>
-Hey I'm Lajoie, a passionate front-end developer specializing in HTML, CSS, and JavaScript. I love turning creative ideas into interactive and responsive web experiences. Whether it's crafting sleek designs with CSS, building dynamic functionality with JavaScript, or structuring clean, semantic HTML, I'm always eager to push the limits of what’s possible on the web.
+Hey I'm Lajoie, a passionate fullstack developer specializing in HTML, CSS, JavaScript, python, prompt engineering for LLM, and AI integration for web development. I love turning creative ideas into interactive and responsive web experiences. Whether it's crafting sleek designs with CSS, building dynamic functionality with JavaScript, or structuring clean, semantic HTML, I'm always eager to push the limits of what’s possible on the web.
 
 </h2>💡 What I Do:</h2>
 ✨ Front-End Development – Bringing designs to life with HTML, CSS, and JavaScript
