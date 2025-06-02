@@ -20,7 +20,7 @@ Hey I'm Lajoie, a passionate fullstack developer specializing in HTML, CSS, Java
 <h2>🔥 Key Projects</h2>
 [Wellness Course] – A course designed to teach people how to prioritze their wellness.
 
-[<a href="https://mentalbreakmagic.netlify.app/">Mental Break Magic</a>] <a href="https://github.com/Joyfull-Happiness/thecodersdeck">Repo Link</a> – A Wellness tool for coders who need a little break from debugging. 
+[<a href="https://mentalbreakmagic.netlify.app/">Mental Break Magic</a>]  – A Wellness tool for coders who need a little break from debugging. And don't worry I got chu; here's the <a href="https://github.com/Joyfull-Happiness/thecodersdeck">repo link</a> to make your own! :D
 
 [Project Name 3](GitHub Repo Link) – Brief description of what it does.
 
